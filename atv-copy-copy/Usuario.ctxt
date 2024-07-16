@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Usuario
+comment0.text=\r\n\ Classe\ que\ representa\ um\ usu\u00E1rio\ no\ sistema.\r\n
+comment1.params=nome\ email
+comment1.target=Usuario(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=java.lang.String\ getEmail()
+comment4.params=
+comment4.target=void\ login()
+comment4.text=\r\n\ M\u00E9todo\ para\ login\ do\ usu\u00E1rio.\r\n
+comment5.params=
+comment5.target=void\ logout()
+comment5.text=\r\n\ M\u00E9todo\ para\ logout\ do\ usu\u00E1rio.\r\n
+numComments=6
